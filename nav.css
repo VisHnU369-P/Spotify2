@@ -1,0 +1,153 @@
+@import url(./last.css);
+
+#nav1{
+    border: 2px solid;
+    height: 40px;
+    
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#nav2{
+    border: 2px solid;
+    height: 40px;
+    display: flex;
+     justify-content: flex-end; 
+    
+}
+
+#move{
+    position: absolute;
+    left: 15%;
+}
+
+#change{
+    color: black;
+    background-color: white;
+    border-radius: 0% !important;
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color:white ;
+    border-bottom-color:white ;
+}
+
+#change:hover{
+    border-bottom-color: black;
+}
+
+#width{
+    width: 95%;
+    margin: auto;
+}
+
+#search{
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color:white ;
+    border-bottom-color: black;
+}
+
+#icon1{
+   font-size: 20px;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+.navbar-brand{
+    width: 98%;
+    margin: auto;
+    
+    color: #1c1c1c;
+    text-transform: uppercase;
+    opacity: 1;
+    font-weight: 700;
+    margin-bottom: 28px;
+    font-family: NeuePlak__WideBold;
+    font-size: 35px !important;
+    letter-spacing: .2px;
+}
+
+#double{
+     /* border: 2px solid;  */
+    width: 95%;
+    margin: auto;
+   
+    display: flex;
+    justify-content: space-between;
+}
+
+#over{
+    width: 550px;
+}
+
+#big{
+    border: 2px solid;
+    height: 600px;
+    background-image: url(https://imagescdn.reebok.in/img/app/shopmedia/production/3/32--12107.jpg?w=1686.25&auto=format);
+}
+
+#season{
+    padding-top: 40px;
+    font-weight: 700;
+    width: 97%;
+}
+
+#multibut{
+    /* border: 2px solid; */
+    height: 40px;
+    width: 95%;
+    margin: auto;
+}
+
+#three{
+    color: black !important;
+    border-radius: 0%;
+    width: 150px;
+    border-color: black;
+    background-color: white;
+    margin-right:10px ;
+    height: 50px;
+}
+
+#resize{
+    height: 500px;
+    width: 330px !important;
+    padding-right: 30px; 
+}
+
+#bbb{
+    /* border: 2px solid; */
+    margin: 35px;
+    display: flex;
+    
+}
+
+#bbb1{
+     /* border: 2px solid;  */
+    margin: 35px;
+    display: flex;
+    width: 95%;
+}
+
+#scroll{
+    display: flex;
+    padding-left: 40px;
+}
+
+
+#resize1{
+    height: 420px;
+    width: 310px !important;
+     padding: 25px; 
+}
+
+#underline{
+    text-decoration: none;
+    
+}
+
+
+

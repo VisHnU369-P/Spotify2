@@ -1,0 +1,47 @@
+
+
+#last{
+    /* border: 2px solid; */
+     height: 70px !important; 
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blue;
+    color: white;
+}
+
+#final{
+    border: 2px solid;
+    width: 90%;
+    margin: auto;
+}
+
+#f6{
+    
+     /* border: 2px solid rgb(217, 255, 0);  */
+    height: 50px;
+    width: 150px;
+    padding: 5PX;
+    display: flex;
+    
+    
+}
+
+#logo{
+    text-align: center;
+    font-size: 80px;
+    
+}
+
+.move{
+    width: 300px !important;
+    padding-left: 40px;
+}
+
+.move+p{
+    padding-top: 10px;
+    font-size: 12px;
+    padding-left: 50px;
+}
+
